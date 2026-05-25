@@ -1,0 +1,1 @@
+Fiz um trabalho para a faculdade na matéria de Estatística 3. Análise de série temporal da taxa de câmbio do dólar com dados mensais a partir de 2010, utilizando transformação Box-Cox e modelo ARIMA. Foram geradas previsões de 1 e 12 passos à frente, avaliadas pelas métricas MAE, RMSE e MAPE.
